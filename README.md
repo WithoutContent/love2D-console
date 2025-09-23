@@ -83,4 +83,4 @@ console.Storefunctions("test1",test1,"test2",test2,"test3",test3...)
 
 # License
 
-MIT License – free to use, modify, and distribute.
+[MIT License](LICENSE) – free to use, modify, and distribute.
