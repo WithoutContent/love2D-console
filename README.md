@@ -70,3 +70,7 @@ console.Storefunctions("test1",test1,"test2",test2,"test3",test3...)
 ```
 # Requirements
 [LÖVE 11.x](https://love2d.org/)
+
+# License
+
+MIT License – free to use, modify, and distribute.
