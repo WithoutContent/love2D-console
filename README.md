@@ -41,8 +41,8 @@ Toggleable in-game console `~`
 
 > The current version of the console is 1.0.0. There may be a few bugs.
 
- - Place console.lua in your project
- - Require it in your main file:
+ - Place [console.lua](console.lua) in your project
+ - Require it in your [main](main.lua) file:
 ```
 local console = require("console")
 ```
