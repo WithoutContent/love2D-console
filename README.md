@@ -64,6 +64,11 @@ end
 -- Second component is the function itself.
 console.Storefunctions("test",test)
 ```
+
+> [!IMPORTANT]
+> There always should be a name and a function. Or the code won't work
+
+
  - You can put as much functions as user wants.
 ```
 console.Storefunctions("test1",test1,"test2",test2,"test3",test3...)
