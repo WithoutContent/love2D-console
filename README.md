@@ -4,6 +4,8 @@
 [![LÖVE](https://img.shields.io/badge/LÖVE-11.x-ff69b4.svg)](https://love2d.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
+![Stars](https://img.shields.io/github/stars/WithoutContent/console.lua?style=social)
+![Issues](https://img.shields.io/github/issues/WithoutContent/console.lua.svg)
 
 ## Console.lua
 
