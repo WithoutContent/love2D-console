@@ -5,6 +5,10 @@ It provides a lightweight debugging and command execution interface that can be 
 
 # Table of Contents
  - [Features](#Features)
+ - [Keybinds](#Keybinds)
+ - [Usage](#Usage)
+ - [Requirements](#Requirements)
+ - [License](#License)
 
 # Features
 Toggleable in-game console `~`
@@ -35,7 +39,6 @@ Toggleable in-game console `~`
  - `Ctrl + Arrows`	Jump cursor to start/end
 # Usage
 
-> [!NOTE]
 > The current version of the console is 1.0.0. There may be a few bugs.
 
  - Place console.lua in your project
@@ -68,7 +71,6 @@ end
 console.Storefunctions("test",test)
 ```
 
-> [!IMPORTANT]
 > There always should be a name and a function. Or the code won't work
 
 
