@@ -1,3 +1,10 @@
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Lua](https://img.shields.io/badge/language-Lua-2C2D72.svg)
+[![LÖVE](https://img.shields.io/badge/LÖVE-11.x-ff69b4.svg)](https://love2d.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 ## Console.lua
 
 A simple and customizable in-game console for [LÖVE](https://www.love2d.org/) (Love2D).\
