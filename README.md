@@ -3,8 +3,6 @@
 ![Lua](https://img.shields.io/badge/language-Lua-2C2D72.svg)
 [![LÖVE](https://img.shields.io/badge/LÖVE-11.x-ff69b4.svg)](https://love2d.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-![Status](https://img.shields.io/badge/status-active-success.svg)
-![Stars](https://img.shields.io/github/stars/WithoutContent/console.lua?style=social)
 
 ## Console.lua
 
