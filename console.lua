@@ -318,6 +318,7 @@ function console.textinput(t)
     else
         text[2] = t
     end
+    return true
 end
 
 function console.draw()
@@ -500,6 +501,7 @@ function console.keypressed(key, scancode, isrepeat)
         love.system.setClipboardText(text[2])
         text[2] = ""
     end
+    return true
 end
 
 function console.print(printable)
@@ -594,3 +596,4 @@ function console.Storefunctions(...)
 end
 
 return console
+
