@@ -17,7 +17,7 @@ It provides a lightweight debugging and command execution interface that can be 
  - [License](#License)
 
 # Features
-Toggleable in-game console `~`
+- Toggleable in-game console `~`
 - Built-in commands:
   - `help` – show help information
   - `commands` – list all available commands
