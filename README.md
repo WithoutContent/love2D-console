@@ -9,6 +9,8 @@
 A simple and customizable in-game console for [LÖVE](https://www.love2d.org/) (Love2D).\
 It provides a lightweight debugging and command execution interface that can be easily integrated into your projects.
 
+![Console showcase image](console_showcase.png)
+
 # Table of Contents
  - [Features](#Features)
  - [Keybinds](#Keybinds)
